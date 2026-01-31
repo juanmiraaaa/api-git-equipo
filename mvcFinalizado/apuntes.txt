@@ -1,0 +1,38 @@
+Siempre entre llaves. 
+Vector:
+"asignaturas": [
+    {"nombre": "Despliegue de Aplicaciones Web", "ciclo":"DAW"},
+    {"nombre":"Desarrollo Web eb Entorno Servidor", "ciclo":"DAW"}
+]
+//El contenido con JSON es interpretado, por  lo que si tengo un email sin .com, no dará error porque es el contenido que hay dentro, pero luego a la hora de guardarlo en la base de datos si que dará problemas.
+
+file_get_contents('nombreArchivo.json');
+decodirficado es asociativo
+
+Si no le indico, decodifica todo.
+Si le digo 3 y tiene 5 niveles, decodifica los los 3 sin coger el 4 y 5.
+
+de los parametros de json_decode() nosotros solo vamos a usar el primer y cuarto parametro. Por supuesto, si trabajamos con las excepciones lo metemos en un try catch.
+
+Siemore que tengamos que trabajar con vectores usaremos la estrucutura foreach.
+Haremos un foreach por cada  vector que tengamos que recorrer.
+
+Los JSON suelen estar muy bien formados.
+
+Siempre que codifiquemos un JSON, lo primero que debemos hacer es comprobar qu eno tenemos errores.
+
+Cambiar boton de exportacion de csv a json
+
+ERP
+Proveedor me da bienes(materiales) y acreedor me da servicios(telefono). Ambos me están costando dinero.
+Navision es el nombre anterior del ERP de Microsoft, ahora conocido como Microsoft Dynamics 365 Business Central.
+
+Los articulos: tendremos un menú que me llevará a una ventana donde estarán todos los articulos. O nos dan toda la info, o nos dan al cliente y trascribiremos lo que está haciendo. Preguntarle absolutamente todo para no dejar ninguna duda.
+
+Los articulos tendrán una referencia, una descripcion, un precio y un tipo de IVA. Tambien tenemos que hacer un mantenimineto de articulos: alta, baja o modificacion. Es decir, hacer un CRUD
+
+La referencia es alfanumerica, varchar(100), es distinto de la clave primaria.
+Cuando hagamos las lineas de una factura, ahora habrá que hacer un desplegable en las lineas de factura cuando vaya a intertar o modificar. Llamada con Ajax para extraer los datos.
+
+En diagramas de entidad relacion, n+ significa minimo uno.
+
