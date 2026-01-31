@@ -22,3 +22,7 @@ Una vez creada, importamos el archivo .sql, lo que creará la BD correctamente e
 - **R**ead: Listar las tareas existentes.
 - **U**pdate: Editar el título o estado de una tarea.
 - **D**elete: Eliminar tareas.
+
+---
+**Colaboración realizada por Santi (dev-santi)**
+Cambios realizados: Personalización de colores, actualización de títulos y mejora de la navegación.

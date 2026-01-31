@@ -17,7 +17,7 @@
     type="text/css" 
     href="<?php echo URLSITE; ?>view/css/app.css">
 
-  <title>CRUD MVC</title>
+  <title>CRUD Santi y Juan</title>
 </head>
 <body>
 
